@@ -101,7 +101,7 @@
 
 2. Click Create new secret key
 
-   ![image](https://user-images.githubusercontent.com/89479282/207970699-2e0cb671-8636-4e27-b1f3-b75d6db9b57e.PNG)
+   ![image](https://user-images.githubusercontent.com/59131974/234870877-a982c729-ccb8-4d9f-bc25-602020ee2b4c.png)
 
 3. Store the SECRET KEY to `.env` under the `OPENAI_API_KEY`
 
