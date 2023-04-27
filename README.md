@@ -94,7 +94,7 @@
 
 6. Invite your bot to your server via OAuth2 URL Generator
 
-   ![image](https://user-images.githubusercontent.com/89479282/205949600-0c7ddb40-7e82-47a0-b59a-b089f929d177.png)
+   ![image](https://user-images.githubusercontent.com/59131974/234872073-2145d153-a39c-441b-8eb9-9e7b3737416c.png)
 ## Step 2: Official API authentication
 
 ### Geanerate an OpenAI API key
