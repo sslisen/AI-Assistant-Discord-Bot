@@ -81,11 +81,12 @@
 1. Go to https://discord.com/developers/applications create an application
 2. Build a Discord bot under the application
 3. Get the token from bot setting
+   
+   ![image](https://user-images.githubusercontent.com/59131974/234871730-9911d4b3-69b5-4f5c-bb6b-ee7e186d3350.png)
 
-   ![image](https://user-images.githubusercontent.com/89479282/205949161-4b508c6d-19a7-49b6-b8ed-7525ddbef430.png)
 4. Store the token to `.env` under the `DISCORD_BOT_TOKEN`
-
-   <img height="190" width="390" alt="image" src="https://user-images.githubusercontent.com/89479282/222661803-a7537ca7-88ae-4e66-9bec-384f3e83e6bd.png">
+   
+   ![image](https://user-images.githubusercontent.com/59131974/234871853-f179c530-8251-4d40-946d-e9cd582ee1e4.png)
 
 5. Turn MESSAGE CONTENT INTENT `ON`
 
