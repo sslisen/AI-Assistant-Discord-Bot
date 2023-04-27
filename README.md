@@ -92,7 +92,7 @@
 
    ![image](https://user-images.githubusercontent.com/89479282/205949323-4354bd7d-9bb9-4f4b-a87e-deb9933a89b5.png)
 
-6. Invite your bot to your server via OAuth2 URL Generator
+6. Invite your bot to your server via OAuth2 URL Generator, Open the invitation link in browser to add Bot to your server
 
    ![image](https://user-images.githubusercontent.com/59131974/234872073-2145d153-a39c-441b-8eb9-9e7b3737416c.png)
 ## Step 2: Official API authentication
